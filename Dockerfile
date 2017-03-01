@@ -1,4 +1,4 @@
-FROM trifs/ci-php-full:5.6
+FROM trifs/ci-php-full:5.6.30
 MAINTAINER Dominik Znidar <dominik.znidar@3fs.si>
 
 # Add golang 1.6.2
